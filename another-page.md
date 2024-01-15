@@ -2,8 +2,10 @@
 layout: default
 ---
 
-## Welcome to another page
+## Ambiente Dev Quick Start: Egeon
 
-_yay_
+[https://github.com/monanadmin/MONAN-scripts/tree/main/egeon](https://github.com/monanadmin/MONAN-scripts/tree/main/egeon)
 
-[back](./)
+
+
+[Back](./)
